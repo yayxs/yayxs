@@ -1,9 +1,15 @@
-### Hi , I'm [yayxs!](https://yayxs.github.io/) 👋👋
+### Hi , I'm [yayxs!](https://github.com/yayxs) 👋👋
 
-- <a href="https://fett.netlify.app/guides/" target="_blank" >个人博客 2020 版</a>
+#### 博客
+
+- <a href="https://fett.netlify.app/guides/" target="_blank" >前端厚说 2020 年版博客</a>
+- <a href="https://fett.netlify.app/guides/" target="_blank" >前端厚说 2019 年版博客</a>
+- <a href="https://top-fe-iqa.netlify.app/guides/" target="_blank" >TOP-FE-IQA 前端面试题积累</a>
+
+#### 社群
+
 - <a href="https://juejin.cn/user/3491704661872910/posts?sort=popular" target="_blank" >掘金社区主页</a>
-- <a href="https://top-fe-iqa.netlify.app/guides/" target="_blank" >前端头部高频面试题及答案</a>
-- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=yoE2aLnJP14aUTVROUIF3gNWLITdgpYJ&jump_from=webapi">QQ 学习交流群-前端互鱼</a>
+- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=yoE2aLnJP14aUTVROUIF3gNWLITdgpYJ&jump_from=webapi">QQ 学习交流群</a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yayxs&show_icons=true&?count_private=true&show_icons=true)
 
