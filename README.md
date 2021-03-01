@@ -3,7 +3,7 @@
 #### 博客
 
 - <a href="https://fett.netlify.app/guides/" target="_blank" >前端厚说 2020 年版博客</a>
-- <a href="https://fett.netlify.app/guides/" target="_blank" >前端厚说 2019 年版博客</a>
+- <a href="https://yayxs.github.io/" target="_blank" >前端厚说 2019 年版博客</a>
 - <a href="https://top-fe-iqa.netlify.app/guides/" target="_blank" >TOP-FE-IQA 前端面试题积累</a>
 
 #### 社群
