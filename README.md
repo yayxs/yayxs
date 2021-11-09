@@ -10,7 +10,7 @@
 - 💬 微信：iamywlleader
 - 🤔 问答：<a href="https://www.zhihu.com/people/gao-zi-yuan-de-cheng-xu-yuan" target="_blank">知乎 vast</a>
 - 🔗 自助加微信编程群：<a target="_blank" href="">公众号『 前端厚说 』</a>
-- 👫🏻 QQ 百人技术提升交流群：713593204 <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=YYKAm6bl"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="小洋同学和他的同学" title="小洋同学和他的同学""></a>
+- 👫🏻 QQ 百人技术提升交流群：713593204 <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=YYKAm6bl"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="小洋同学和他的同学" title="小洋同学和他的同学" /></a>
 
 ## 今年汇总 ✨
 
