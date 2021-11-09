@@ -1,18 +1,17 @@
-### Hi , I'm [yayxs!](https://github.com/yayxs) 👋👋
+## 我是前端厚说-洋小洋同学 👋👋
 
-#### 博客
+- 🧑 北京某上市企业全职前端攻城狮，B 站 UP 主，社区知识博主，男生，单身
+- 🔍 全网搜：前端厚说 | 洋小洋同学 | vast | yayxs | <a href="http://vast.icu/" target="_blank">vast.icu</a>
+- 🕐 状态：`2021.11.01~2022.01.01` 坚持刷力扣中
+- 🧮 力扣：<a href="https://leetcode-cn.com/session/" target="_blank">前端厚说-洋小洋同学</a>
+- 📝 文档：<a href="https://www.yuque.com/yayxs?tab=books" target="_blank">语雀 前端厚说 』</a>
+- 🚀 干货：<a href="" target="_blank">公众号『 前端厚说 』</a>
+- 📺 视频：<a href="https://space.bilibili.com/310726273" target="_blank">B 站 洋小洋同学</a>
+- 💬 微信：iamywlleader
+- 🤔 问答：<a href="https://www.zhihu.com/people/gao-zi-yuan-de-cheng-xu-yuan" target="_blank">知乎 vast</a>
+- 🔗 自助加微信编程群：<a target="_blank" href="">公众号『 前端厚说 』</a>
+- 👫🏻 QQ 百人技术提升交流群：713593204 <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=YYKAm6bl"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="小洋同学和他的同学" title="小洋同学和他的同学""></a>
 
-- <a href="https://fett.netlify.app/guides/" target="_blank" >前端厚说 2020 年版博客</a>
-- <a href="https://yayxs.github.io/" target="_blank" >前端厚说 2019 年版博客</a>
-- <a href="https://top-fe-iqa.netlify.app/guides/" target="_blank" >TOP-FE-IQA 前端面试题积累</a>
+## 今年汇总 ✨
 
-#### 社群
-
-- <a href="https://juejin.cn/user/3491704661872910/posts?sort=popular" target="_blank" >掘金社区主页</a>
-- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=yoE2aLnJP14aUTVROUIF3gNWLITdgpYJ&jump_from=webapi">QQ 学习交流群</a>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yayxs&show_icons=true&?count_private=true&show_icons=true)
-
-### Find me
-
-![]()![联系](https://cdn.jsdelivr.net/gh/yayxs/Pics/dontKownJS/%E8%81%94%E7%B3%BB.png)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yayxs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayxs&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
