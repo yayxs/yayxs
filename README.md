@@ -1,7 +1,7 @@
 ## 我是前端厚说-洋小洋同学 👋👋
 
 - 🧑 北京某上市企业全职前端攻城狮，B 站 UP 主，社区知识博主，男生，单身
-- 🔍 全网搜：前端厚说 | 洋小洋同学 | vast | yayxs | http://vast.icu/
+- 🔍 全网搜：前端厚说 | 洋小洋同学 | vast | yayxs | <a href="http://vast.icu/" target="_blank">作者域名</a>
 - 🕐 状态：`2021.11.01~2022.01.01` 坚持刷力扣中
 - 🧮 力扣：<a href="https://leetcode-cn.com/progress/" target="_blank">LeetCode 『 前端厚说-洋小洋同学 』</a>
 - 📝 文档：<a href="https://www.yuque.com/yayxs?tab=books" target="_blank">语雀</a><a href="https://gitee.com/yayxs/pics/raw/master/about/yuque.png" target="_blank">『 前端厚说-洋小洋同学 』</a>
