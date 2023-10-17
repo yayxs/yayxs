@@ -3,7 +3,8 @@
   <span>计算机基础&nbsp;&nbsp;</span>
   <samp>
     <a href="https://github.com/yayxs/computer-network-learn" target="_blank">计算机网络</a> .
-    <a href="https://github.com/yayxs/computer-organization-learn" target="_blank">计算机组成原理</a>
+    <a href="https://github.com/yayxs/computer-organization-learn" target="_blank">计算机组成原理</a> . 
+    <a href="https://github.com/yayxs/design-patterns-learn" target="_blank">JavaScript设计模式</a>
   </samp>
 </p>
 
