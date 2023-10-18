@@ -1,3 +1,5 @@
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=yayxs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+
 - 你有什么问题的话，可以点这里 [issues](https://github.com/yayxs/issues) 在我的issues中留言
 - <p align="left">
   <span>计算机基础&nbsp;&nbsp;</span>
@@ -27,6 +29,4 @@
 </p>
 
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yayxs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayxs&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
