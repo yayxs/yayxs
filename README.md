@@ -28,5 +28,11 @@
   </samp>
 </p>
 
+- <p align="left">
+  <span>开源贡献&nbsp;&nbsp;</span>
+  <samp>
+    <a href="https://gitee.com/dcloud/unidocs-zh/pulls/245" target="_blank">uni-app 中文文档修复</a> 
+  </samp>
+</p>
 
 
