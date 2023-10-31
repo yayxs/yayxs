@@ -31,7 +31,8 @@
 - <p align="left">
   <span>开源贡献&nbsp;&nbsp;</span>
   <samp>
-    <a href="https://gitee.com/dcloud/unidocs-zh/pulls/245" target="_blank">uni-app 中文文档修复</a> 
+    <a href="https://gitee.com/dcloud/unidocs-zh/pulls/245" target="_blank">uni-app 中文文档修复</a> . 
+    <a href="https://gitee.com/liangei/lime-f2/pulls/1" target="_blank">uni-app fix: 支付宝真机偶现缩小问题</a> 
   </samp>
 </p>
 
