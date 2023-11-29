@@ -17,6 +17,8 @@
     <a href="https://github.com/yayxs/css-learn" target="_blank">CSS</a> .
     <a href="https://github.com/yayxs/javascript-learn" target="_blank">JavaScript</a> .
     <a href="https://github.com/yayxs/es6-learn" target="_blank">ECMAScript 6</a> .
+    <a href="https://github.com/yayxs/typescript-learn" target="_blank">TypeScript</a> .
+    <a href="https://github.com/yayxs/tsconfig.json" target="_blank">TSConfig</a> .
     
   </samp>
 </p>
