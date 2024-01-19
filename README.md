@@ -37,5 +37,8 @@
     <a href="https://gitee.com/liangei/lime-f2/pulls/1" target="_blank">uni-app fix: 支付宝真机偶现缩小问题</a> 
   </samp>
 </p>
-
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yayxs/count.svg" />
+</p>
 
