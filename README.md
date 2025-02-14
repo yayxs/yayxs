@@ -1,5 +1,5 @@
-#### This is a great entrance to everything about me
+All-platform personal brand upgraded to 10k, this is the official website address
 
-<a href="https://about-10k.vercel.app/" target="_blank">10k</a> . 
+<a href="https://www.shikei.me/" target="_blank">10k</a> . 
 
 
