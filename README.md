@@ -1,5 +1,3 @@
-All-platform personal brand upgraded to 10k, this is the official website address
-
-<a href="https://www.shikei.me/" target="_blank">10k</a> . 
+My personal brand IP has been fully upgraded to 10k, which is 10,000. This is my personal website:  <a href="https://www.shikei.me/" target="_blank"> click --> 10k</a> . 
 
 
