@@ -1,3 +1,6 @@
-My personal brand IP has been fully upgraded to 10k, which is 10,000. This is my personal website:  <a href="https://www.shikei.me/" target="_blank">10k</a> . 
+- X / Twitter vibercoding [vibercoding](https://x.com/vibercoding)
 
+<br />
+
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f538490081048b695f965ee28285577~tplv-k3u1fbpfcp-watermark.image?" width="300px" height="200px">
 
